@@ -57,3 +57,7 @@ Each aircraft has unique parameters affecting survivability:
 
 1. Gather all the files in one project
 2. Run 2D/3D Script
+
+## Preview
+![Preview 1](preview1.png)
+![Preview 2](preview2.png)
