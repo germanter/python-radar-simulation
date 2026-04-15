@@ -59,5 +59,5 @@ Each aircraft has unique parameters affecting survivability:
 2. Run 2D/3D Script
 
 ## Preview
-![Preview 1](preview1.png)
-![Preview 2](preview2.png)
+![Preview 2D](preview2D.png)
+![Preview 3D](preview3D.png)
